@@ -1,0 +1,125 @@
+{
+  "historical_author": "王炳堃",
+  "source_identity": "Bodleian Libraries, University of Oxford, Sinica 2335",
+  "source": "https://digital.bodleian.ox.ac.uk/objects/9b30b95d-c827-490d-a7b6-743a68cde604/",
+  "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/9b30b95d-c827-490d-a7b6-743a68cde604.json",
+  "source_rights_policy": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 16,
+  "content_scan_count": 12,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/71a2d67d-1f1b-4f4d-80cb-d8932fa795de.json",
+      "label": "[1]",
+      "sha256": "61bef5561b5177b799baa91e11064764b5340963f971f8ea6405bf924e02ffd6",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/21bc2cfb-b4ec-446d-954b-053a9ed409da.json",
+      "label": "[2]",
+      "sha256": "227b5b8810f2776ea54db3143d68184cb5a6173a7929b55e643c39f6c105a36f",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7fbedeb6-7a64-4776-94d4-c10ef028e0d0.json",
+      "label": "[3]",
+      "sha256": "4528cfc65e5c83b43f73603675903cbecbeacfde16c22cc7d87757814335bc2e",
+      "content_role": "title-and-series-contents"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b8449068-5d78-4863-89fc-ab7b2b5c7f21.json",
+      "label": "[4]",
+      "sha256": "987ee9d72537502f720bd39bcd3400942e41330b6f6293b421dafca58e85de76",
+      "content_role": "title-and-series-contents"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a2aff03b-90f9-470e-a4ee-fdf7d5b9fae3.json",
+      "label": "[5]",
+      "sha256": "01c02e7306045a334c74adac7c9cd782ebaed8ff300d3fc95735a99559352d4e",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1f0f12e-2826-487d-b806-c3b0cd85891d.json",
+      "label": "[6]",
+      "sha256": "f4479c8197fbeb5b68dbcc81e9a0814fcb0dea6d6ecf1cf73ecc96191035eb70",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bdcbe276-a27d-4f07-9d78-2c9a9ce844f5.json",
+      "label": "[7]",
+      "sha256": "fdd15b5e89d01d396d8996fc7640a3a9b4565c9912f2b706e02725b451a61ba9",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/72b7cc88-98c7-4025-addf-ebeb5d59712c.json",
+      "label": "[8]",
+      "sha256": "84ec5454e8ca25d4eeadd214990ffffb3fdc1a6a21ff295c9f72d84c53ada6ff",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/379f9464-957e-4352-a33f-b7492bd0cf86.json",
+      "label": "[9]",
+      "sha256": "0f4b67172fd412dc5baab24d89e080dfd7b42c12027256ac013e18628aaf4591",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7f4faba6-74ef-45f5-994f-0e8f4734d57f.json",
+      "label": "[10]",
+      "sha256": "f60fe6190d332b93338fbe80fa820c5bd42a2a56ee1eb1acefe51ef023ed9196",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9ab9b104-bb49-4a4d-a628-476547774ee9.json",
+      "label": "[11]",
+      "sha256": "8e0d9a79f7a407c9a60b5f76f48ed27c5ceb1968a370bbdd418a311485d22499",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4fe1ff34-5517-473b-a245-4fe23dd8d5fb.json",
+      "label": "[12]",
+      "sha256": "32e9c9a3e60d85f26662fcf59194369f82f14befe171c03ccb9fd60b418b2f3f",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/31e2e61c-dd90-495c-9970-fcd8f23f6133.json",
+      "label": "[13]",
+      "sha256": "e73a495947a5afd5cface8c48787a63e1bbbea49d1927eb95657039fd686df89",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7ca5dff-2274-4a55-8788-e014d8a4e65c.json",
+      "label": "[14]",
+      "sha256": "75416cce8d5f59a3642ad477521de4c809adcab4fb90f0cb481136bb17803e4a",
+      "content_role": "printed-commentary"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/521f8ede-0202-44b0-b75d-7b47020d0750.json",
+      "label": "[15]",
+      "sha256": "822486354a64124c2af3feda6621a485a271a18e5115f18cd5f1704ec4dd7a0d",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dbfbbe32-a563-4a1a-9f3e-cb0399addabb.json",
+      "label": "[16]",
+      "sha256": "9de10ff047ff41cc2e8b8ba5a39537cc487b2d46eaf4c3d949551cb36b92ebea",
+      "content_role": "housing-or-binding"
+    }
+  ]
+}

@@ -1,0 +1,1040 @@
+{
+  "metadata": {
+    "title": "真理課選二課・上帝律法十誡註釋其一",
+    "catalogue_title": "真理課選．二課，上帝律法十誡註釋．其一",
+    "alternate_title": "Zhen li ke xuan, er ke",
+    "roman_title": "Zhen li ke xuan, er ke: Shang di lü fa shi jie zhu shi qi yi",
+    "author": "王炳堃",
+    "date": "光緒七年歲次辛巳（1881），漢口聖教書局印發。",
+    "location": "英國牛津（現藏）；原刊漢口",
+    "repository": "牛津大學博德利圖書館",
+    "repository_en": "Bodleian Libraries, University of Oxford",
+    "collection": "Sinica",
+    "shelfmark": "Sinica 2335",
+    "catalogue": "https://digital.bodleian.ox.ac.uk/objects/9b30b95d-c827-490d-a7b6-743a68cde604/",
+    "rights": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "description": "《真理課選》第二課之一。王炳堃注釋十誡，從宗教與倫理角度談上帝律法、敬拜和生活行為。本冊另有全套九課總目。",
+    "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/9b30b95d-c827-490d-a7b6-743a68cde604.json",
+    "manifest_sha256": "1437e3c87bf4588efee82fa25af015c55c6c28bbfa452d8e1f295ef49e3437f9",
+    "record_id": "SINICA2335",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "version": "0.1.0",
+    "dataset_title": "真理課選二課・上帝律法十誡註釋其一（1881 年漢口刊，牛津大學 Sinica 2335） / Zhen li ke xuan, er ke [Selected Lessons on Truth: A Commentary on the Ten Commandments, Part I]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/71a2d67d-1f1b-4f4d-80cb-d8932fa795de.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/71a2d67d-1f1b-4f4d-80cb-d8932fa795de/full/2000,/0/default.jpg",
+      "label": "[1]",
+      "file": "01.jpg",
+      "bytes": 1486154,
+      "sha256": "61bef5561b5177b799baa91e11064764b5340963f971f8ea6405bf924e02ffd6",
+      "native_width": 4975,
+      "native_height": 7044,
+      "downloaded_width": 2000,
+      "downloaded_height": 2832,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "原書衣大題",
+              "text": "真理課選",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "後貼展覽文字籤",
+              "text": "Law of God. Comments on the 10 Commandments.",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "後貼中文展覽籤",
+              "text": "□律法十誡註釋／二課其一　王炳堃／二課其二　何玉泉",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "□律法十誡註釋",
+                "二課其一　王炳堃",
+                "二課其二　何玉泉"
+              ]
+            },
+            {
+              "type": "copy-annotation",
+              "location": "所藏號鉛筆",
+              "text": "Sinica 2335",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "黃色展覽標",
+              "text": "INTERNATIONAL HEALTH EXHIBITION.／Exhibitor: CHINESE GOVERNMENT.／No. 16 of Class II.／Title in Chinese 真理課選／English The Law of God／Author Ho Yü ch'üan.／1 Volumes.",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "INTERNATIONAL HEALTH EXHIBITION.",
+                "Exhibitor: CHINESE GOVERNMENT.",
+                "No. 16 of Class II.",
+                "Title in Chinese 真理課選",
+                "English The Law of God",
+                "Author Ho Yü ch'üan.",
+                "1 Volumes."
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "後貼中文展覽籤",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "單幅：展覽標下方卷數照寫，Translator 行空白。小白籤題首有黃籤遮住。封面標籤並列兩名，實際底本收其一，署名依正文首幅。另見兩組淡色舊編號，末位未完全辨清。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/21bc2cfb-b4ec-446d-954b-053a9ed409da.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/21bc2cfb-b4ec-446d-954b-053a9ed409da/full/2000,/0/default.jpg",
+      "label": "[2]",
+      "file": "02.jpg",
+      "bytes": 1482755,
+      "sha256": "227b5b8810f2776ea54db3143d68184cb5a6173a7929b55e643c39f6c105a36f",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：前襯。可見淺淡紙框、未見獨立文字。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7fbedeb6-7a64-4776-94d4-c10ef028e0d0.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7fbedeb6-7a64-4776-94d4-c10ef028e0d0/full/2000,/0/default.jpg",
+      "label": "[3]",
+      "file": "03.jpg",
+      "bytes": 1582544,
+      "sha256": "4528cfc65e5c83b43f73603675903cbecbeacfde16c22cc7d87757814335bc2e",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "title-and-series-contents",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "西歷一千八百八十一年"
+            },
+            {
+              "text": "真理課選"
+            },
+            {
+              "text": "光緒七年歲次辛巳　漢口聖教書局印發"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "正式內封，中題及左右刊年、印行所分三欄。下框見局部圓印，淡印未釋。"
+        }
+      ],
+      "observations": "單幅：正式內封，中題及左右刊年、印行所分三欄。下框見局部圓印，淡印未釋。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b8449068-5d78-4863-89fc-ab7b2b5c7f21.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b8449068-5d78-4863-89fc-ab7b2b5c7f21/full/2000,/0/default.jpg",
+      "label": "[4]",
+      "file": "04.jpg",
+      "bytes": 1600679,
+      "sha256": "987ee9d72537502f720bd39bcd3400942e41330b6f6293b421dafca58e85de76",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "title-and-series-contents",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "真理課選目錄"
+            },
+            {
+              "text": "初課上帝惟一造化之主衆宜服命共二篇"
+            },
+            {
+              "text": "二課上帝律法十誡註釋共二篇"
+            },
+            {
+              "text": "三課古今拜主理宜何禮共二篇"
+            },
+            {
+              "text": "四課上帝理世賞善罰惡"
+            },
+            {
+              "text": "五課禍福未正天道之妙"
+            },
+            {
+              "text": "六課今世虛空當求實福"
+            },
+            {
+              "text": "七課悔改重生聖經實理共二篇"
+            },
+            {
+              "text": "八課耶穌臨世全應預言"
+            },
+            {
+              "text": "九課耶穌恩救聖神德化"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 6,
+          "context": "未",
+          "candidates": [],
+          "note": "內封後為全系列九課總目。第五課「未」原形長橫和短橫待核。"
+        }
+      ],
+      "observations": "單幅：內封後為全系列九課總目。第五課「未」原形長橫和短橫待核。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a2aff03b-90f9-470e-a4ee-fdf7d5b9fae3.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a2aff03b-90f9-470e-a4ee-fdf7d5b9fae3/full/2000,/0/default.jpg",
+      "label": "[5]",
+      "file": "05.jpg",
+      "bytes": 1682894,
+      "sha256": "01c02e7306045a334c74adac7c9cd782ebaed8ff300d3fc95735a99559352d4e",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "上帝律法十誡註釋其一"
+            },
+            {
+              "text": "嘗思家法設自家主、國法設自人君、而天法設自上帝、以其為天地"
+            },
+            {
+              "text": "主也、上帝垂示之法有十、故曰十誡、託摩西而傳於以色列民載於"
+            },
+            {
+              "text": "兩碑、一示人行於上帝之分、二示人行於人之分、故天倫人倫之理"
+            },
+            {
+              "text": "而俱全、夫十誡之理包涵萬象、終身行之而未能宿儒解之而不盡、"
+            },
+            {
+              "text": "然其大端要旨雖婦孺可以與知、故教中人無論白叟黃童皆學此"
+            },
+            {
+              "text": "十誡、因其為至要也、然此十誡云何、○首誡云、我耶和華爾之上帝、"
+            },
+            {
+              "text": "導爾出埃及、脫爾於賤役者、余而外不可別有上帝、○伊昔以色列"
+            },
+            {
+              "text": "民在埃及為人賤役、上帝導之出埃及而入迦南、夫埃及苦海也、指"
+            },
+            {
+              "text": "魔鬼之國、迦南樂土也、指上帝之國、萬民原為魔鬼之役、甚於以色"
+            },
+            {
+              "text": "列民之在埃及、誰救萬民出魔鬼國而入上帝國乎、其為上帝也、以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "內題欄下小字右行",
+              "text": "廣東禮",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "內題欄下小字左行",
+              "text": "賢會",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "內題欄下署名",
+              "text": "王炳堃",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左書口上",
+              "text": "真理課選",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左書口中",
+              "text": "二課　上帝律法十誡註釋",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左書口下",
+              "text": "一",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：這一幅取完整左主頁。小字左右合讀為「廣東禮賢會」。署名末字下見土，上見左右同構筆畫，作「堃」，同時有牛津 Serica 書目相合。原墨小頓點以「、」、空圈以「○」記。裝訂內沿同框鄰頁未收入。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1f0f12e-2826-487d-b806-c3b0cd85891d.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/c1f0f12e-2826-487d-b806-c3b0cd85891d/full/2000,/0/default.jpg",
+      "label": "[6]",
+      "file": "06.jpg",
+      "bytes": 1748880,
+      "sha256": "f4479c8197fbeb5b68dbcc81e9a0814fcb0dea6d6ecf1cf73ecc96191035eb70",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "上帝之權如此其大、之恩如此其深、故當敬畏敬愛、全靠上帝、愈於"
+            },
+            {
+              "text": "萬物、夫異邦人拜偶像、事邪神、是別有上帝、犯此誡也、教內人雖不"
+            },
+            {
+              "text": "拜有形之偶像但多拜無形之偶像、如好貨財、私妻子、與夫愛一切"
+            },
+            {
+              "text": "世物、愈於上帝、有一如此是亦別有上帝、犯此誡也、撫懷內問誰愛"
+            },
+            {
+              "text": "全能上帝、畢生□懈、始終不渝、有一念之或弛、則全誡皆犯、該十誡"
+            },
+            {
+              "text": "無有人盡守、全守十誡者、獨一救主耶穌而已、夫十誡之理皆要、而"
+            },
+            {
+              "text": "以首為尤要、蓋愛上帝為萬善之源、人苟愛上帝則不敢犯其禁、必"
+            },
+            {
+              "text": "悅從其命、人犯他誡者、因未能守此首誡矣、○二誡云、毋雕偶像、天"
+            },
+            {
+              "text": "上地下水中百物勿作像象之、毋拜跪、毋崇奉、以我耶和華卽爾之"
+            },
+            {
+              "text": "上帝、斷不容以他上帝匹我、惡我者、禍之、討其父之罪於其子之身、"
+            },
+            {
+              "text": "至三四世、愛我守我誡者、福之至千百世、○上帝乃至聖之神、無形"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 5,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "單幅：這一幅取完整右主頁。書口右沿僅見部分字側及魚尾殘筆，另見前幅書口。第5欄「懈」上字外框內有數橫，圖形候「周」，語例候「罔」，暫留□。「始終不渝」之「渝」候比「淪」。第9欄先「像」後「象」，前者有亻。裝訂內沿同框鄰頁未收入。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bdcbe276-a27d-4f07-9d78-2c9a9ce844f5.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/bdcbe276-a27d-4f07-9d78-2c9a9ce844f5/full/2000,/0/default.jpg",
+      "label": "[7]",
+      "file": "07.jpg",
+      "bytes": 1797494,
+      "sha256": "fdd15b5e89d01d396d8996fc7640a3a9b4565c9912f2b706e02725b451a61ba9",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "無象無可比儗、故不能以世物像之、孔子云、始作俑者其無後乎、為"
+            },
+            {
+              "text": "其像人而用之也、像人倘且不可、況像上帝乎、故凡以世物像上帝"
+            },
+            {
+              "text": "者、是汚慢上帝、其罪實甚、夫上帝既不能以物像之、而拜上帝之禮、"
+            },
+            {
+              "text": "又不能以物事之、耶穌曰、上帝乃神、拜之者必以神以誠、且夫上帝"
+            },
+            {
+              "text": "至義、故警逆其誡者之罰、自父及子至三四世、人若不愛上帝則多"
+            },
+            {
+              "text": "貽謀不善、世濟其惡、所謂作不善之家必有餘殃也、而上帝亦為至"
+            },
+            {
+              "text": "仁、故許守其誡者之福、至於千百世、人能愛上帝則裕後多良子孫"
+            },
+            {
+              "text": "善繼善述、所謂作善之家必有餘慶也、人奈何不畏上帝之義、而懷"
+            },
+            {
+              "text": "其仁哉、○三誡云、爾上帝耶和華之名勿妄稱、妄稱者不得為無罪、○上"
+            },
+            {
+              "text": "帝之名至聖、非人所能妄稱、凡用上帝之名發假誓言咒詛行詐偽"
+            },
+            {
+              "text": "等情、皆為有瀆上帝之名、是謂妄稱、夫妄稱上帝之名何以其罪若"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左書口上",
+              "text": "真理課選",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左書口中",
+              "text": "二課　上帝律法十誡註釋",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左書口下",
+              "text": "二",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：這一幅取完整左主頁。第2欄「人」後字有亻，作「倘」。第3欄「汚」及第1欄「儗」照錄。裝訂內沿同框鄰頁未收入。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/72b7cc88-98c7-4025-addf-ebeb5d59712c.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/72b7cc88-98c7-4025-addf-ebeb5d59712c/full/2000,/0/default.jpg",
+      "label": "[8]",
+      "file": "08.jpg",
+      "bytes": 1862782,
+      "sha256": "84ec5454e8ca25d4eeadd214990ffffb3fdc1a6a21ff295c9f72d84c53ada6ff",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "是之重、蓋言為心之聲、言妄者其心必慢、侮慢上帝其罪不重而何、"
+            },
+            {
+              "text": "君親之名倘為臣子者所宜敬避、況上帝名乎、然上帝非禁人不稱"
+            },
+            {
+              "text": "其名、祇禁其妄矣、凡善稱其名、如歌詩、頌禱、講道等情、是謂善用其"
+            },
+            {
+              "text": "名、斯為上帝所悅、至於歌詩頌禱、講道之際稱上帝之名而心不誠、"
+            },
+            {
+              "text": "亦為妄稱、抑從道人之行不端、招人誡毀、亦為有瀆上帝之名、人何"
+            },
+            {
+              "text": "可不檢身防口哉、○第四誡云、當以安息日為聖日、永誌勿忘、六日"
+            },
+            {
+              "text": "間宜操作、以竣諸工焉、越至七日、則耶和華爾上帝之安息也、是日"
+            },
+            {
+              "text": "爾與子女、僕婢牲畜、及遠人主於爾家者、皆勿操作、蓋六日間耶和"
+            },
+            {
+              "text": "華造天地海萬物、第七日乃止、故耶和華以安息日為聖日、而錫福"
+            },
+            {
+              "text": "焉、○夫安息日自開闢而來已然、以此而申言之故曰誌、以是日異"
+            },
+            {
+              "text": "於常日故曰聖、惟其為聖也、故凡一切世事、不可作於是日、六日作"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右書口上殘字",
+              "text": "真理課選",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：這一幅取完整右主頁。右書口上段字體受裁，但「真理課選」仍可辨，以下僅見魚尾殘線。第5欄「招人誡毀」的「誡」與第6欄「第四誡」同形，照錄。第8欄「遠人」下見「主」形。裝訂內沿同框鄰頁未收入。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/379f9464-957e-4352-a33f-b7492bd0cf86.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/379f9464-957e-4352-a33f-b7492bd0cf86/full/2000,/0/default.jpg",
+      "label": "[9]",
+      "file": "09.jpg",
+      "bytes": 1803008,
+      "sha256": "0f4b67172fd412dc5baab24d89e080dfd7b42c12027256ac013e18628aaf4591",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "工獲糧以養身、七日安息聽道以養靈、凡人信上帝所許、雖是日不"
+            },
+            {
+              "text": "作工而亦無缺、古今來有明驗矣、雖安息日特為養靈、而亦養身、蓋"
+            },
+            {
+              "text": "人終年勤劬無少休息、未免精力太耗、身體因之而弱、必有所靜憩"
+            },
+            {
+              "text": "以固元神、七日一週、其數不疏不數、易曰天心、七日一來復、大若是"
+            },
+            {
+              "text": "安息日之遺意、可見中國古昔亦或有此安息日、獨後人遺忘矣、但"
+            },
+            {
+              "text": "是日聽道之餘、亦非終日禪坐、凡為上帝之道與益人之舉、雖至勞"
+            },
+            {
+              "text": "亦可為之、故耶穌於安息日施醫講道亦所不辭、然有要務雖已事"
+            },
+            {
+              "text": "亦可為之、蓋為人而立安息日、非為安息日而立人、獨為世事之利"
+            },
+            {
+              "text": "則是日不可為矣、且也今之安息為將來永遠安息之表、凡誠心而"
+            },
+            {
+              "text": "守今之安息、可獲將來永遠安息焉、○五誡云敬爾父母、則可於耶"
+            },
+            {
+              "text": "和華爾上帝所賜之地、而享遐齡焉、○不可見而至大者為上帝、可"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心上",
+              "text": "真理課選",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左側版心中",
+              "text": "二課　上帝律法十誡註釋",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左側版心下",
+              "text": "三",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：十一欄。右內沿露出前一幅同頁相鄰的殘欄，未重錄。原小撇點以「、」編碼，分節原有空心圈以「○」編碼。第4欄的「大」候「殆」，原圖暫保留可見字形；「曰天心」的「心」後有小刻點，保留。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7f4faba6-74ef-45f5-994f-0e8f4734d57f.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/7f4faba6-74ef-45f5-994f-0e8f4734d57f/full/2000,/0/default.jpg",
+      "label": "[10]",
+      "file": "10.jpg",
+      "bytes": 1793056,
+      "sha256": "f60fe6190d332b93338fbe80fa820c5bd42a2a56ee1eb1acefe51ef023ed9196",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "見而至大者為兩親、上四誡論人行於上帝之分、以下六誡則論人"
+            },
+            {
+              "text": "行於人人之分、在人中以父母為首、故命敬父母、中國言孝亦詳、然"
+            },
+            {
+              "text": "不出敬之之範圍、人能盡敬、必能敬孝也、所謂父母者、非第兩親之"
+            },
+            {
+              "text": "謂凡君相有司、兄長伯叔與夫一切在上者皆是、凡不服居上者、即"
+            },
+            {
+              "text": "不服上帝、華人多謂耶穌教不重五倫、其亦未觀此五誡矣、在十誡"
+            },
+            {
+              "text": "中許人以福惟此五誡、可見向人之分莫大於父母也、然世俗多有"
+            },
+            {
+              "text": "以不孝為孝者、如祭祀風水之類、此有背上帝之道、不可曲從、孝當"
+            },
+            {
+              "text": "分眞偽、衡以上帝之道、則知所從違矣、○六誡云毋殺人、○所謂毋"
+            },
+            {
+              "text": "殺人者、不第指以刀以梃、或樸或鴆、此等之殺、人或不敢犯之、然有"
+            },
+            {
+              "text": "以心殺人者、如見仇讎有難而喜其災、鄰里臨危而不拯其厄、或懷"
+            },
+            {
+              "text": "嫉妬、或生怨恨者比比皆是、亦有以言殺人者、如播弄是非、敗人名"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 3,
+          "context": "敬孝",
+          "candidates": [],
+          "note": "十一欄。主頁右側版心的題字被截，只見殘形，不據相鄰幅補錄；左內沿鄰頁不重錄。第3欄「敬孝」照圖，雖有語意疑慮不倒字。第9欄「樸」原形候「檏」，以原圖木旁及右部釐清前暫留候。"
+        },
+        {
+          "side": "single",
+          "column": 9,
+          "context": "樸",
+          "candidates": [],
+          "note": "十一欄。主頁右側版心的題字被截，只見殘形，不據相鄰幅補錄；左內沿鄰頁不重錄。第3欄「敬孝」照圖，雖有語意疑慮不倒字。第9欄「樸」原形候「檏」，以原圖木旁及右部釐清前暫留候。"
+        }
+      ],
+      "observations": "單幅：十一欄。主頁右側版心的題字被截，只見殘形，不據相鄰幅補錄；左內沿鄰頁不重錄。第3欄「敬孝」照圖，雖有語意疑慮不倒字。第9欄「樸」原形候「檏」，以原圖木旁及右部釐清前暫留候。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9ab9b104-bb49-4a4d-a628-476547774ee9.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/9ab9b104-bb49-4a4d-a628-476547774ee9/full/2000,/0/default.jpg",
+      "label": "[11]",
+      "file": "11.jpg",
+      "bytes": 1750436,
+      "sha256": "8e0d9a79f7a407c9a60b5f76f48ed27c5ceb1968a370bbdd418a311485d22499",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "節、及謗讟詈罵等情、他如訟師逞刁筆、小夫尋短見、與夫溺女等事、"
+            },
+            {
+              "text": "皆在殺人之列、抑好勇鬥狠、耽酒色、食鴉片、凡有傷生之具、亦犯六"
+            },
+            {
+              "text": "誡之條、人固不可殺、而禽獸則何如、其有毒者可殺之以除害、如虎"
+            },
+            {
+              "text": "狼蛇蝎、其有用者可殺之以益人、如牛羊鹿豕、但使之速亡、以減其"
+            },
+            {
+              "text": "苦、釋氏禁殺牲亦矯枉過正之論、至若有司執法、可誅宼、軍士為國"
+            },
+            {
+              "text": "可殺敵、如此之殺為無過、但宜存矜恤、不可狥暴、○七誡云毋行淫"
+            },
+            {
+              "text": "所謂毋行淫者、不第指辱人妻女之謂、蓋淫之為狀甚多、如意存污"
+            },
+            {
+              "text": "念、心淫也、喜看美色、目淫也、悅聽邪曲、耳淫也、好談閨閫、口淫也、有"
+            },
+            {
+              "text": "捫不潔、手淫也、他如非姦、故出妻而他娶、棄夫而他從、亦為犯淫、至"
+            },
+            {
+              "text": "若納妾、在中國不以為淫、律以上帝之法、則為淫、一夫一婦人道之"
+            },
+            {
+              "text": "正、過此則為淫、起在聖經禁淫更有深意、凡人離上帝而拜邪神、猶"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心上",
+              "text": "真理課選",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左側版心中",
+              "text": "二課　上帝律法十誡註釋",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左側版心下",
+              "text": "四",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：十一欄；右內沿鄰頁不重錄。第2欄「狠」候「狼」、第5欄「宼」候「寇」、第7欄「辱」候「奪」、第8欄「閫」候「閬」、第9欄「捫」暫依所見。原書第6欄圈上無句末撇點，接下一欄。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4fe1ff34-5517-473b-a245-4fe23dd8d5fb.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/4fe1ff34-5517-473b-a245-4fe23dd8d5fb/full/2000,/0/default.jpg",
+      "label": "[12]",
+      "file": "12.jpg",
+      "bytes": 1823700,
+      "sha256": "32e9c9a3e60d85f26662fcf59194369f82f14befe171c03ccb9fd60b418b2f3f",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "婦女棄夫而苟合、是謂神姦、故凡屬上帝之民宜身心潔淨、言行端"
+            },
+            {
+              "text": "方、人之身稱為上帝之殿、人惡可汚上帝之殿乎、○八誡云毋攘竊、"
+            },
+            {
+              "text": "○所謂毋攘竊者、非第指公然、之刦奪偷盜已也、如交易而不公平、"
+            },
+            {
+              "text": "放債而索重息、欠債而不愿償拾物而不反原主、為官而受苞苴、為"
+            },
+            {
+              "text": "民而抗錢糧、至於主人刻薄、是盜工人之力、工人怠惰、是盜主人之"
+            },
+            {
+              "text": "資、劫奪人美是盜名、擅自專制是盜權、凡物苟非已有、雖一毫取之"
+            },
+            {
+              "text": "而亦盜、故宜杜漸防微、勿以小而忽諸、蓋小可能釀大、凡言損於人"
+            },
+            {
+              "text": "者固不敢為、亦宜盡力以衛人之家資、而增益之焉、○九誡云毋妄"
+            },
+            {
+              "text": "證、○所謂勿妄證者、指一切說誑、假偽、毀謗、詐騙等情、是非固不可"
+            },
+            {
+              "text": "播弄、他人陰私亦不可妄發、當隱惡揚善、勿敗他人名節、臨危不可"
+            },
+            {
+              "text": "苟免、約信要近於義、勿輕言諾以貽後悔、魔鬼為誑之父、說誑者是"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心上（截）",
+              "text": "真理課選",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：主面十一欄，左內沿下一頁不重錄。右側版心中下沿出圖邊界，多不全。第3欄「刦」右見直刂，與第6欄「劫」形不同；第4欄「愿」取原見厂下心形，第6欄「已」候「己」。兩類原刻句讀照見記為「、」「○」，不補未見的標點。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/31e2e61c-dd90-495c-9970-fcd8f23f6133.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/31e2e61c-dd90-495c-9970-fcd8f23f6133/full/2000,/0/default.jpg",
+      "label": "[13]",
+      "file": "13.jpg",
+      "bytes": 1696435,
+      "sha256": "e73a495947a5afd5cface8c48787a63e1bbbea49d1927eb95657039fd686df89",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "魔鬼之子、故凡屬上帝之民者必信必誠焉、○十誡云毋貪人宅第、"
+            },
+            {
+              "text": "妻室僕婢牛驢與凡屬於人者、　首誡命為上帝是為善之源、十誡"
+            },
+            {
+              "text": "懲貪心是絕惡之根、可見十誡首尾相應、如環焉、貪不第指財利而"
+            },
+            {
+              "text": "言、人之所貪各有不同、有貪名者、有貪財者、有貪色者、貪名必至於"
+            },
+            {
+              "text": "傲、貪財必至於盜、貪色必至於淫、其勢使然、凡事欲止其流、必先塞"
+            },
+            {
+              "text": "其源、欲禁惡行、必先禁欲心、十誡曰毋貪、是正本清源之法、夫貪由"
+            },
+            {
+              "text": "於不知自足、故人不論處於何境、當知饜足、毋豔羨焉、○上十誡之"
+            },
+            {
+              "text": "理至微而亦至義、天下無人盡守、蓋人皆有罪故也、但上帝垂示守"
+            },
+            {
+              "text": "者獲其福、不守者膺其禍、誰能免其刑乎、以法則不能免也、上帝預"
+            },
+            {
+              "text": "知人不盡守、而垂示此誡、欲人因此而識己罪、引而之基督、蓋全守"
+            },
+            {
+              "text": "十誡者獨一救主而已、人信此耶穌、則　上帝因耶穌之守、亦視吾人"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左側版心上",
+              "text": "真理課選",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左側版心中",
+              "text": "二課　上帝律法十誡註釋",
+              "column_anchor": 11,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左側版心下",
+              "text": "五",
+              "column_anchor": 11,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：主面十一欄，右內沿前一頁不重錄。第2欄「首」與第11欄末段「上帝」前確見留空，暫以一全形空格表示；第11欄「耶穌」下「則」僅殘筆，留候讀。版心外側稍裁，所讀非另外正文。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7ca5dff-2274-4a55-8788-e014d8a4e65c.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a7ca5dff-2274-4a55-8788-e014d8a4e65c/full/2000,/0/default.jpg",
+      "label": "[14]",
+      "file": "14.jpg",
+      "bytes": 1465821,
+      "sha256": "75416cce8d5f59a3642ad477521de4c809adcab4fb90f0cb481136bb17803e4a",
+      "native_width": 4595,
+      "native_height": 6899,
+      "downloaded_width": 2000,
+      "downloaded_height": 3003,
+      "content_role": "printed-commentary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "為守、故經云義人以信得生也、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右側版心上（截）",
+              "text": "真理課選",
+              "column_anchor": 1,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 1,
+          "context": "也",
+          "candidates": [],
+          "note": "承接前頁「亦視吾人」。正文僅右端一短欄，至「也」及其右原刻撇點即止。後為分欄線、未印欄及背透淡痕，沒有正文、另題或署款；右側版心中下僅存截筆，葉碼不確讀。"
+        }
+      ],
+      "observations": "單幅：承接前頁「亦視吾人」。正文僅右端一短欄，至「也」及其右原刻撇點即止。後為分欄線、未印欄及背透淡痕，沒有正文、另題或署款；右側版心中下僅存截筆，葉碼不確讀。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/521f8ede-0202-44b0-b75d-7b47020d0750.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/521f8ede-0202-44b0-b75d-7b47020d0750/full/2000,/0/default.jpg",
+      "label": "[15]",
+      "file": "15.jpg",
+      "bytes": 1675504,
+      "sha256": "822486354a64124c2af3feda6621a485a271a18e5115f18cd5f1704ec4dd7a0d",
+      "native_width": 4749,
+      "native_height": 6864,
+      "downloaded_width": 2000,
+      "downloaded_height": 2891,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：本件後襯頁。圖右內沿部分重見前幅尾文，不另錄。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dbfbbe32-a563-4a1a-9f3e-cb0399addabb.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/dbfbbe32-a563-4a1a-9f3e-cb0399addabb/full/2000,/0/default.jpg",
+      "label": "[16]",
+      "file": "16.jpg",
+      "bytes": 1570769,
+      "sha256": "9de10ff047ff41cc2e8b8ba5a39537cc487b2d46eaf4c3d949551cb36b92ebea",
+      "native_width": 4848,
+      "native_height": 6917,
+      "downloaded_width": 2000,
+      "downloaded_height": 2854,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：後書衣。無正文。"
+    }
+  ]
+}
