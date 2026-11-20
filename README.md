@@ -4,11 +4,11 @@
 
 Wang Bingkun’s commentary on the Ten Commandments is the first part of lesson two in Zhen li ke xuan. Published at the Hankou Religious Tract Society in 1881, this Chinese pamphlet discusses divine law, worship and moral conduct. This edition follows Bodleian Libraries Sinica 2335 and includes the volume’s list of all nine lessons.
 
-## V0.1.0
+## V0.2.0
 
-16 幅均有定位，收內封、總目和第5至14幅所見本冊全文。保留書衣的後貼展覽籤、版心與疑字。AI 輔助逐欄初錄，疑字另記。
+16 幅均有定位，收內封、總目和第5至14幅所見本冊全文。保留書衣的後貼展覽籤、版心與疑字。比對未見初稿的本機 OCR 候選後，回圖裁定採用 2 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 16 scans are indexed, including the title page, series contents and the full text on scans 5–14. Wrapper labels, running titles and uncertain readings are separately represented. AI-assisted initial transcription with uncertain readings marked.
+All 16 scans are indexed, including the title page, series contents and the full text on scans 5–14. Wrapper labels, running titles and uncertain readings are separately represented. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 2 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

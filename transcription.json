@@ -17,7 +17,7 @@
     "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/9b30b95d-c827-490d-a7b6-743a68cde604.json",
     "manifest_sha256": "1437e3c87bf4588efee82fa25af015c55c6c28bbfa452d8e1f295ef49e3437f9",
     "record_id": "SINICA2335",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       3,
       4,
@@ -32,9 +32,9 @@
       13,
       14
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "真理課選二課・上帝律法十誡註釋其一（1881 年漢口刊，牛津大學 Sinica 2335） / Zhen li ke xuan, er ke [Selected Lessons on Truth: A Commentary on the Ten Commandments, Part I]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -160,13 +160,13 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "title-and-series-contents",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "single",
           "columns": [
             {
-              "text": "西歷一千八百八十一年"
+              "text": "西厯一千八百八十一年"
             },
             {
               "text": "真理課選"
@@ -175,7 +175,21 @@
               "text": "光緒七年歲次辛巳　漢口聖教書局印發"
             }
           ],
-          "extras": []
+          "extras": [
+            {
+              "type": "seal",
+              "location": "內封下方跨框淡墨圓印",
+              "text": "〔印文未釋〕",
+              "color": "black",
+              "column_anchor": null,
+              "source_bbox": [
+                714,
+                2510,
+                947,
+                2746
+              ]
+            }
+          ]
         }
       ],
       "issues": [
@@ -202,7 +216,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "title-and-series-contents",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "single",
@@ -248,6 +262,16 @@
           "context": "未",
           "candidates": [],
           "note": "內封後為全系列九課總目。第五課「未」原形長橫和短橫待核。"
+        },
+        {
+          "side": "single",
+          "column": 6,
+          "context": "禍福未正",
+          "candidates": [
+            "未",
+            "末"
+          ],
+          "note": "比較上下兩橫，仍保留初錄。"
         }
       ],
       "observations": "單幅：內封後為全系列九課總目。第五課「未」原形長橫和短橫待核。"
@@ -265,7 +289,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "single",
@@ -366,7 +390,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "single",
@@ -415,6 +439,17 @@
           "context": "□",
           "candidates": [],
           "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "single",
+          "column": 5,
+          "context": "畢生□懈",
+          "candidates": [
+            "同",
+            "周",
+            "罔"
+          ],
+          "note": "有殘框與斷橫，框內筆未定。"
         }
       ],
       "observations": "單幅：這一幅取完整右主頁。書口右沿僅見部分字側及魚尾殘筆，另見前幅書口。第5欄「懈」上字外框內有數橫，圖形候「周」，語例候「罔」，暫留□。「始終不渝」之「渝」候比「淪」。第9欄先「像」後「象」，前者有亻。裝訂內沿同框鄰頁未收入。"
@@ -432,7 +467,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "single",
@@ -512,7 +547,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "single",
@@ -578,7 +613,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "single",
@@ -642,7 +677,18 @@
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "single",
+          "column": 4,
+          "context": "大若是",
+          "candidates": [
+            "大",
+            "殆"
+          ],
+          "note": "保留待查。"
+        }
+      ],
       "observations": "單幅：十一欄。右內沿露出前一幅同頁相鄰的殘欄，未重錄。原小撇點以「、」編碼，分節原有空心圈以「○」編碼。第4欄的「大」候「殆」，原圖暫保留可見字形；「曰天心」的「心」後有小刻點，保留。"
     },
     {
@@ -658,7 +704,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "single",
@@ -731,7 +777,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "single",
@@ -811,7 +857,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "single",
@@ -877,7 +923,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 2891,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "single",
@@ -941,7 +987,28 @@
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "single",
+          "column": 7,
+          "context": "毋豔羨",
+          "candidates": [
+            "豔",
+            "艶",
+            "艷"
+          ],
+          "note": "右半可辨色形收筆，左部尚待判。"
+        },
+        {
+          "side": "single",
+          "column": 11,
+          "context": "耶穌與上帝之間",
+          "candidates": [
+            "則"
+          ],
+          "note": "欄中只有數道豎畫，保留疑讀及原空隙。"
+        }
+      ],
       "observations": "單幅：主面十一欄，右內沿前一頁不重錄。第2欄「首」與第11欄末段「上帝」前確見留空，暫以一全形空格表示；第11欄「耶穌」下「則」僅殘筆，留候讀。版心外側稍裁，所讀非另外正文。"
     },
     {
@@ -957,7 +1024,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 3003,
       "content_role": "printed-commentary",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "single",

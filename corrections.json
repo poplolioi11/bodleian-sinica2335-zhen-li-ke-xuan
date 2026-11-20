@@ -1,0 +1,224 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 2,
+  "changes": [
+    {
+      "image": 3,
+      "side": "single",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "西歷",
+      "after": "西厯",
+      "reason": "厯字厂下雙木、底部為心形，照底本。",
+      "source_bbox": [
+        1384,
+        388,
+        1611,
+        1986
+      ],
+      "offset": [
+        0,
+        2
+      ],
+      "source_image_sha256": "4528cfc65e5c83b43f73603675903cbecbeacfde16c22cc7d87757814335bc2e",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7fbedeb6-7a64-4776-94d4-c10ef028e0d0.json"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": null,
+      "kind": "paratext",
+      "op": "locate-seal",
+      "before": "版面附記",
+      "after": "淡墨圓印，印文未釋",
+      "reason": "墨印跨紙框底線，另層定位。",
+      "source_bbox": [
+        714,
+        2510,
+        947,
+        2746
+      ],
+      "source_image_sha256": "4528cfc65e5c83b43f73603675903cbecbeacfde16c22cc7d87757814335bc2e",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7fbedeb6-7a64-4776-94d4-c10ef028e0d0.json"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/71a2d67d-1f1b-4f4d-80cb-d8932fa795de.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7fbedeb6-7a64-4776-94d4-c10ef028e0d0.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "single",
+      "column": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b8449068-5d78-4863-89fc-ab7b2b5c7f21.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "single",
+      "column": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b8449068-5d78-4863-89fc-ab7b2b5c7f21.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "single",
+      "column": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1f0f12e-2826-487d-b806-c3b0cd85891d.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "single",
+      "column": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1f0f12e-2826-487d-b806-c3b0cd85891d.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 9,
+      "side": "single",
+      "column": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/379f9464-957e-4352-a33f-b7492bd0cf86.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 10,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7f4faba6-74ef-45f5-994f-0e8f4734d57f.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 10,
+      "side": "single",
+      "column": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7f4faba6-74ef-45f5-994f-0e8f4734d57f.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "single",
+      "column": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/31e2e61c-dd90-495c-9970-fcd8f23f6133.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "single",
+      "column": 11,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/31e2e61c-dd90-495c-9970-fcd8f23f6133.json",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7ca5dff-2274-4a55-8788-e014d8a4e65c.json",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 3,
+      "side": "single",
+      "column": 2,
+      "source_image_sha256": "4528cfc65e5c83b43f73603675903cbecbeacfde16c22cc7d87757814335bc2e",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7fbedeb6-7a64-4776-94d4-c10ef028e0d0.json",
+      "source_bbox": [
+        744,
+        384,
+        1305,
+        2571
+      ],
+      "reading": "真理課選",
+      "status": "依原圖留讀",
+      "reason": "內封中欄題名。"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 3,
+      "source_image_sha256": "4528cfc65e5c83b43f73603675903cbecbeacfde16c22cc7d87757814335bc2e",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7fbedeb6-7a64-4776-94d4-c10ef028e0d0.json",
+      "source_bbox": [
+        466,
+        391,
+        690,
+        1331
+      ],
+      "reading": "光緒七年歲次辛巳",
+      "status": "依原圖留讀",
+      "reason": "刊年與另一欄西厯年代相合。"
+    },
+    {
+      "image": 3,
+      "side": "single",
+      "column": 3,
+      "source_image_sha256": "4528cfc65e5c83b43f73603675903cbecbeacfde16c22cc7d87757814335bc2e",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7fbedeb6-7a64-4776-94d4-c10ef028e0d0.json",
+      "source_bbox": [
+        445,
+        1598,
+        680,
+        2572
+      ],
+      "reading": "漢口聖教書局印發",
+      "status": "依原圖留讀",
+      "reason": "左欄下部另列印行所。"
+    },
+    {
+      "image": 6,
+      "side": "single",
+      "column": 6,
+      "source_image_sha256": "f4479c8197fbeb5b68dbcc81e9a0814fcb0dea6d6ecf1cf73ecc96191035eb70",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1f0f12e-2826-487d-b806-c3b0cd85891d.json",
+      "source_bbox": [
+        900,
+        450,
+        1100,
+        1100
+      ],
+      "reading": "盡守",
+      "status": "依原圖留讀",
+      "reason": "該欄可辨兩次守字。"
+    },
+    {
+      "image": 6,
+      "side": "single",
+      "column": 7,
+      "source_image_sha256": "f4479c8197fbeb5b68dbcc81e9a0814fcb0dea6d6ecf1cf73ecc96191035eb70",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1f0f12e-2826-487d-b806-c3b0cd85891d.json",
+      "source_bbox": [
+        900,
+        450,
+        1100,
+        1100
+      ],
+      "reading": "尤要",
+      "status": "依原圖留讀",
+      "reason": "原字尤的底鉤可辨。"
+    },
+    {
+      "image": 14,
+      "side": "single",
+      "column": 1,
+      "source_image_sha256": "75416cce8d5f59a3642ad477521de4c809adcab4fb90f0cb481136bb17803e4a",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a7ca5dff-2274-4a55-8788-e014d8a4e65c.json",
+      "reading": "義人以信得生也",
+      "status": "依原圖留讀",
+      "reason": "該欄已終，其後空面。"
+    }
+  ]
+}

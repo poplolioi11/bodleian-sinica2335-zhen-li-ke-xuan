@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '真理課選二課・上帝律法十誡註釋其一（1881 年漢口刊，牛津大學 Sinica 2335） / Zhen li ke xuan, er ke [Selected
   Lessons on Truth: A Commentary on the Ten Commandments, Part I]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
